@@ -28,15 +28,6 @@ smart2x convert \
 smart2x convert -i ./per_cell_bams/ -o possorted_genome_bam.bam
 ```
 
-### Options
-
-| Option | Description |
-|--------|-------------|
-| `--kit` | 10x kit (default: `3pv3`) |
-| `--barcode-map` | Custom barcode mapping TSV (`cell_name<TAB>barcode`) |
-| `--threads` | Threads for sorting (default: `1`) |
-| `--barcode-output` | Output path for barcodes.tsv (default: `barcodes.tsv`) |
-
 ### List available kits
 
 ```bash
