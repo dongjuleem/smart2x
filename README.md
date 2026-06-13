@@ -1,4 +1,4 @@
-# smart2x
+## smart2x
 
 Convert Smart-seq per-cell BAM files into 10x Chromium-compatible BAM format (`possorted_genome_bam.bam`).
 
