@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Test output
+test_output/
+test_run.sh
+
+# Claude Code
+CLAUDE.md
+.claude/
+
